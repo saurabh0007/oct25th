@@ -1,5 +1,0 @@
-package com.home.model;
-
-public class Cart {
-
-}
